@@ -28,7 +28,7 @@
         }
     }
 
-.Sejarah {
+.sejarah {
     max-width: 700px;
     margin: 30px;
     box-shadow: 2px 2px 2px 5px #00000055;
@@ -56,4 +56,20 @@
     p {
         opacity: 80%;
     }
+}
+
+.sidebar {
+    max-width: 700px;
+    margin: 30px;
+    box-shadow: 2px 2px 2px 5px #00000055;
+    padding: 20px;
+    border-radius: 10px;
+
+    p {
+        opacity: 80%;
+    }   
+}
+
+.bandungside{
+    display: flex;
 }
